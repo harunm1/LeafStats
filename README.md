@@ -1,2 +1,2 @@
 # LeafStats
-The program displays the current stats of players of the Toronto Maple Leafs. Tkinter was used to create the GUI (Graphical User Interface) An API key from a nhl stats website was used to retrieve the data.
+The program displays the current stats of players of the Toronto Maple Leafs. Tkinter was used to create the GUI (Graphical User Interface) An API key from a nhl stats website was used to retrieve the data. To open the application, download the folder on to your desktop. Then unzip the file and look for the folder labelled dist. Inside that file is an exe file named leafstats. Clicking this will open the application and allow you to view the stats. Pyinstaller was used to create the exe so this application currently works on Windows.
